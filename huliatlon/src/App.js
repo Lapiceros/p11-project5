@@ -2,6 +2,7 @@ import './App.css';
 import LogoImg from './components/Logo';
 import Navbar from './components/Navbar';
 import Banner from './components/Banner'
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -10,10 +11,8 @@ function App() {
         <LogoImg />
         <Navbar />
       </header>
-      <div className="baner">
       <Banner />
-      </div>
-      
+      <Footer />
     </div>
   );
 }
