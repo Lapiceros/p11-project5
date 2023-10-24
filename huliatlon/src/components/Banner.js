@@ -9,15 +9,20 @@ import product4 from '../images/producto4.png'
 function Baner() {
     return(
         <div className="body">
+
             <div className="banner">
             <img src={Banner} alt="banner" />
             </div>
+
+            <p>Top ventas del momento</p>
+            
             <div className="products">
-            <img src={product1} alt="products"/>
-            <img src={product2} alt="products"/>
-            <img src={product3} alt="products"/>
-            <img src={product4} alt="products"/>
+                <img src={product1} alt="products"/>
+                <img src={product2} alt="products"/>
+                <img src={product3} alt="products"/>
+                <img src={product4} alt="products"/>
             </div>
+
         </div>
     );
 }

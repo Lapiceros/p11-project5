@@ -1,11 +1,17 @@
 import './Footer.css'
+import Fb from '../icons/carelibro.png'
+import Android from '../icons/android.svg'
+import Apple from '../icons/apple.svg'
+import Pinterest from '../icons/pinterest.png'
+import Twitter from '../icons/twitter.png'
+import Yt from '../icons/youtube.png'
 
 
 function Footer(){
     return(
-        <div className="footer">
+        <section className="footer">
             <div className="list">
-                <p>Decathlon Empresa</p>
+                <h3>DECATHLON EMPRESA</h3>
                 
                 <a href="/">Quienes somos</a>
                 <a href="/">Canal etico</a>
@@ -18,7 +24,7 @@ function Footer(){
                 
             </div>
             <div className="list">
-                <p>Compra</p>
+                <h3>COMPRA</h3>
                 <a href="/">Metodo de entrga/Gasto de envio</a>
                 <a href="/">Métodos de pago</a>
                 <a href="/">Preguntas frecuentes</a>
@@ -30,7 +36,7 @@ function Footer(){
                 
             </div>
             <div className="list">
-                <p>Post Compra</p>
+                <h3>POST COMPRA</h3>
                 
                 <a href="/">Cambios y devoluciones</a>
                 <a href="/">Factura formato electronico</a>
@@ -42,7 +48,7 @@ function Footer(){
 
             </div>
             <div className="list">
-                <p>Servicios</p>
+                <h3>SERVICIOS</h3>
                 
                     <a href ="/">Alquiler</a>
                     <a href ="/">Soporte tecnico</a>
@@ -56,7 +62,7 @@ function Footer(){
 
             </div>
             <div className="list">
-                <p>Ventajas</p>
+                <h3>VENTAJAS</h3>
                 
                 <a href="/">Decathlon Live</a>
                 <a href="/">Ventajas y servicios</a>
@@ -64,7 +70,28 @@ function Footer(){
                 <a href="/">Revender mis productos</a>
                 
             </div>
-        </div>
+            <div>
+                <h3>PREGÚNTANOS LO QUE QUIERAS</h3>
+                
+                <p>Lo sentimos, en estos momentos el <br /> servicio no está disponible o estamos fuera del horario de atención al cliente (lunes a sábado de 10:00h-22:00h).</p>
+            </div>
+            <div>
+                <h3>App Decathlon</h3>
+            </div>
+            <div>
+                <h3>REDES SOCIALES</h3>
+
+                <img src={Fb} alt="facebook_icon" />
+                <img src={Android} alt="facebook_icon" />
+                <img src={Yt} alt="facebook_icon" />
+                <img src={Apple} alt="facebook_icon" />
+                <img src={Twitter} alt="facebook_icon" />
+                <img src={Pinterest} alt="facebook_icon" />
+            </div>
+            <div>
+                <h3>PARTNER</h3>
+            </div>
+        </section>
     );
 }
 

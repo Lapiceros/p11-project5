@@ -1,8 +1,8 @@
 import Logo from '../images/decaclon.png'
-
+import './Logo.css'
 function LogoImg(){
     return(
-        <img src={Logo} alt="Logo Decaclon" />
+        <img className="logo" src={Logo} alt="Logo Decaclon" />
     );
 }
 
