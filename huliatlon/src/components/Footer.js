@@ -1,10 +1,5 @@
 import './Footer.css'
-import Fb from '../icons/carelibro.png'
-import Android from '../icons/android.svg'
-import Apple from '../icons/apple.svg'
-import Pinterest from '../icons/pinterest.png'
-import Twitter from '../icons/twitter.png'
-import Yt from '../icons/youtube.png'
+import Footer_2 from './Footer_2';
 
 
 function Footer(){
@@ -71,25 +66,7 @@ function Footer(){
                 
             </div>
             <div>
-                <h3>PREGÚNTANOS LO QUE QUIERAS</h3>
-                
-                <p>Lo sentimos, en estos momentos el <br /> servicio no está disponible o estamos fuera del horario de atención al cliente (lunes a sábado de 10:00h-22:00h).</p>
-            </div>
-            <div>
-                <h3>App Decathlon</h3>
-            </div>
-            <div>
-                <h3>REDES SOCIALES</h3>
-
-                <img src={Fb} alt="facebook_icon" />
-                <img src={Android} alt="facebook_icon" />
-                <img src={Yt} alt="facebook_icon" />
-                <img src={Apple} alt="facebook_icon" />
-                <img src={Twitter} alt="facebook_icon" />
-                <img src={Pinterest} alt="facebook_icon" />
-            </div>
-            <div>
-                <h3>PARTNER</h3>
+            <Footer_2/>
             </div>
         </section>
     );

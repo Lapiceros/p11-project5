@@ -12,7 +12,9 @@ function App() {
         <Navbar />
       </header>
       <Banner />
+      <footer>
       <Footer />
+      </footer>
     </div>
   );
 }

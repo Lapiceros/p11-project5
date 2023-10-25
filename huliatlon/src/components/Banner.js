@@ -14,7 +14,7 @@ function Baner() {
             <img src={Banner} alt="banner" />
             </div>
 
-            <p>Top ventas del momento</p>
+            <h1>Top ventas del momento</h1>
             
             <div className="products">
                 <img src={product1} alt="products"/>
