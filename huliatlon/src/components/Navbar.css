@@ -2,9 +2,14 @@
     margin-left: 15px;
     display: flex;
     gap: 40px;
+    margin-bottom: 20px;
 }
 
 .navbar a{
     text-decoration: none;
     color: black;
+}
+
+a:hover{
+    color: #007aff;
 }

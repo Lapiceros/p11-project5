@@ -13,3 +13,7 @@
 .body h1{
     margin-right: 53rem;
 }
+
+.banner img{
+    border-radius: 10px;
+}
