@@ -2,106 +2,93 @@
     "products" : [
         {
             "id": 1,
-            "nombre": "Gorra Caza Solognac 100 Adulto Naranja Fluo Alta Visibilidad",
-            "precio": 5.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p1097439/k$826e8aef997002dede100ef04ef82e3c/sq/gorra-caza-solognac-100-adulto-naranja-fluo-alta-visibilidad.jpg?f=3000x3000"
+            "name": "Gorra Caza Solognac 100 Adulto Naranja Fluo Alta Visibilidad",
+            "price": 5.99,
+            "image": "https://contents.mediadecathlon.com/p1097439/k$826e8aef997002dede100ef04ef82e3c/sq/gorra-caza-solognac-100-adulto-naranja-fluo-alta-visibilidad.jpg?f=3000x3000"
         },
 
         {
             "id": 2,
-            "nombre": "Gorra Senderismo y Trekking Forclaz TRAVEL500 Adulto Marrón",
-            "precio": 9.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p1332301/k$70e57632c993207fa034ac18ee754233/sq/gorra-senderismo-y-trekking-forclaz-travel500-adulto-marron.jpg?f=3000x3000"
+            "name": "Gorra Senderismo y Trekking Forclaz TRAVEL500 Adulto Marrón",
+            "price": 9.99,
+            "image": "https://contents.mediadecathlon.com/p1332301/k$70e57632c993207fa034ac18ee754233/sq/gorra-senderismo-y-trekking-forclaz-travel500-adulto-marron.jpg?f=3000x3000"
         },
 
         {
             "id": 3,
-            "nombre": "Gorra Caza Solognac 500 Adulto Marrón Impermeable",
-            "precio": 14.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2484128/k$e6d4d3b3d10cbe13a17f5baf3eb56800/sq/gorra-caza-solognac-500-adulto-marron-impermeable.jpg?f=3000x3000"
+            "nane": "Gorra Caza Solognac 500 Adulto Marrón Impermeable",
+            "price": 14.99,
+            "image": "https://contents.mediadecathlon.com/p2484128/k$e6d4d3b3d10cbe13a17f5baf3eb56800/sq/gorra-caza-solognac-500-adulto-marron-impermeable.jpg?f=3000x3000"
         },
 
         {
             "id": 4,
-            "nombre": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
+            "name": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
             "precio": 4.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p1731503/k$1945ca540316d0f07eaf0591c27d03a7/sq/gorra-de-caza-solognac-steppe-100-adulto-camuflaje.jpg?f=3000x3000"
+            "image": "https://contents.mediadecathlon.com/p1731503/k$1945ca540316d0f07eaf0591c27d03a7/sq/gorra-de-caza-solognac-steppe-100-adulto-camuflaje.jpg?f=3000x3000"
         },
 
         {
             "id": 5,
-            "nombre": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
+            "name": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
             "precio": 4.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
+            "image": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
         },
 
         {
             "id": 6,
-            "nombre": "Gorra de Tenis Artengo TC 900 GrisT58",
+            "name": "Gorra de Tenis Artengo TC 900 GrisT58",
             "precio": 9.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
+            "image": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
         },
 
         {
             "id": 7,
-            "nombre": "Gorra Mixta Fitness Cardio Negro",
-            "precio": 9.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2027180/k$23ec7148107220f9b093232eace42c98/sq/gorra-mixta-fitness-cardio-negro.jpg?f=3000x3000"
+            "name": "Gorra Mixta Fitness Cardio Negro",
+            "price": 9.99,
+            "image": "https://contents.mediadecathlon.com/p2027180/k$23ec7148107220f9b093232eace42c98/sq/gorra-mixta-fitness-cardio-negro.jpg?f=3000x3000"
         },
 
         {
             "id": 8,
-            "nombre": "Gorra Caza Solognac Supertrack Adulto Reforzada Naranja Fluo Alta Visibilidad",
-            "precio": 11.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p474913/k$f5f31056724f8655a13d293feab1e3d4/sq/gorra-caza-solognac-supertrack-adulto-reforzada-naranja-fluo-alta-visibilidad.jpg?f=3000x3000"
+            "name": "Gorra Caza Solognac Supertrack Adulto Reforzada Naranja Fluo Alta Visibilidad",
+            "price": 11.99,
+            "image": "https://contents.mediadecathlon.com/p474913/k$f5f31056724f8655a13d293feab1e3d4/sq/gorra-caza-solognac-supertrack-adulto-reforzada-naranja-fluo-alta-visibilidad.jpg?f=3000x3000"
         },
 
         {
             "id": 9,
-            "nombre": "Gorra Béisbol MLB NEW ERA NEW YORK YANKEES Adulto Rosa Blanco",
-            "precio": 14.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2068828/k$602c085976d5d612b5a7359e1e29c979/sq/gorra-beisbol-mlb-new-era-new-york-yankees-adulto-rosa-blanco.jpg?f=3000x3000"
+            "name": "Gorra Béisbol MLB NEW ERA NEW YORK YANKEES Adulto Rosa Blanco",
+            "price": 14.99,
+            "image": "https://contents.mediadecathlon.com/p2068828/k$602c085976d5d612b5a7359e1e29c979/sq/gorra-beisbol-mlb-new-era-new-york-yankees-adulto-rosa-blanco.jpg?f=3000x3000"
         },
 
         {
             "id": 10,
-            "nombre": "Gorra baloncesto NBA Unisex - Los Angeles Lakers Violeta",
-            "precio": 18.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2091172/k$a6795790989561bd1eb4a0c868bcbb79/sq/gorra-baloncesto-nba-unisex-los-angeles-lakers-violeta.jpg?f=3000x3000"
+            "name": "Gorra baloncesto NBA Unisex - Los Angeles Lakers Violeta",
+            "price": 18.99,
+            "image": "https://contents.mediadecathlon.com/p2091172/k$a6795790989561bd1eb4a0c868bcbb79/sq/gorra-baloncesto-nba-unisex-los-angeles-lakers-violeta.jpg?f=3000x3000"
         },
 
         {
             "id": 11,
-            "nombre": "Gorra Varsity Adidas Negro Blanco",
-            "precio": 19.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2514081/k$44afc5eddbb0917e7074160e7849c4a4/sq/gorra-varsity-adidas-negro-blanco.jpg?f=3000x3000"
+            "name": "Gorra Varsity Adidas Negro Blanco",
+            "price": 19.99,
+            "image": "https://contents.mediadecathlon.com/p2514081/k$44afc5eddbb0917e7074160e7849c4a4/sq/gorra-varsity-adidas-negro-blanco.jpg?f=3000x3000"
         },
 
         {
             "id": 12,
-            "nombre": "Gorra Deportiva Adidas Blanco T58",
-            "precio": 14.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2476041/k$8792eed7856120fccbb2cea963ef02fd/sq/gorra-deportiva-adidas-blanco-t58.jpg?f=3000x3000"
+            "name": "Gorra Deportiva Adidas Blanco T58",
+            "price": 14.99,
+            "image": "https://contents.mediadecathlon.com/p2476041/k$8792eed7856120fccbb2cea963ef02fd/sq/gorra-deportiva-adidas-blanco-t58.jpg?f=3000x3000"
         },
         
         {
             "id": 13,
-            "nombre": "Gorra de béisbol MLB Hombre/Mujer - New York Yankees Beis",
-            "precio": 17.99,
-            "categoria": "ropa mujer",
-            "imagen": "https://contents.mediadecathlon.com/p2549301/k$9214d3e4eee1538f3ec07ab0f223fd93/sq/gorra-de-beisbol-mlb-hombremujer-new-york-yankees-beis.jpg?f=3000x3000"
+            "name": "Gorra de béisbol MLB Hombre/Mujer - New York Yankees Beis",
+            "price": 17.99,
+            "image": "https://contents.mediadecathlon.com/p2549301/k$9214d3e4eee1538f3ec07ab0f223fd93/sq/gorra-de-beisbol-mlb-hombremujer-new-york-yankees-beis.jpg?f=3000x3000"
         }
     ]
 }
