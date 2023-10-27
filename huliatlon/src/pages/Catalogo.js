@@ -1,17 +1,18 @@
 import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import LogoImg from "../components/Logo";
 import Catalogo_Img from "../components/Gorras";
 
 
 const Catalogo = () =>{
     return(
-        <div>
-            <LogoImg />
+        <div className="catalogo">
+            <header>
             <Navbar />
-            <h1 className="catalogo-titulo">Gorras para todo tipo de personas porque aqui no se distinguen generos</h1>
+            </header>
+            <section >
             <Catalogo_Img />
+            </section>
             <footer>
             <Footer />
             </footer>

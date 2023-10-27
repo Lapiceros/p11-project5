@@ -11,10 +11,13 @@ let Imagenes = ({product}) => (
 
 function Catalogo_Img(){
         return (
-                <div className='container'>
+                <div className='catalogoDisplay'>
+                        <h1>Gorras</h1>
+                        <div className='container'>
                         {Test.products.map(product => (
                                 <Imagenes id={product.id} product={product} />
                         ))}
+                        </div>
                 </div>
         );
 }

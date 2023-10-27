@@ -1,3 +1,17 @@
+.catalogoDisplay{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.catalogoDisplay h1{
+    margin-left: 30px;
+    align-self: flex-start;
+    color: #007dbc;
+}
+
 .catalogo-titulo{
     margin-left: 20px;
     color: #007dbc;
