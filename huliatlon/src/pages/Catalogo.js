@@ -2,7 +2,7 @@ import React from "react";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import LogoImg from "../components/Logo";
-import Gorras from "../components/Gorras";
+import Catalogo_Img from "../components/Gorras";
 
 
 const Catalogo = () =>{
@@ -10,8 +10,8 @@ const Catalogo = () =>{
         <div>
             <LogoImg />
             <Navbar />
-            <h2>Catalogo</h2>
-            <Gorras />
+            <h1 className="catalogo-titulo">Gorras para todo tipo de personas porque aqui no se distinguen generos</h1>
+            <Catalogo_Img />
             <footer>
             <Footer />
             </footer>

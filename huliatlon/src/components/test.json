@@ -9,7 +9,7 @@
 
         {
             "id": 2,
-            "nane": "Gorra Caza Solognac 500 Adulto Marrón Impermeable",
+            "name": "Gorra Caza Solognac 500 Adulto Marrón Impermeable",
             "price": 14.99,
             "image": "https://contents.mediadecathlon.com/p2484128/k$e6d4d3b3d10cbe13a17f5baf3eb56800/sq/gorra-caza-solognac-500-adulto-marron-impermeable.jpg?f=3000x3000"
         },
@@ -17,27 +17,27 @@
         {
             "id": 3,
             "name": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
-            "precio": 4.99,
+            "price": 4.99,
             "image": "https://contents.mediadecathlon.com/p1731503/k$1945ca540316d0f07eaf0591c27d03a7/sq/gorra-de-caza-solognac-steppe-100-adulto-camuflaje.jpg?f=3000x3000"
         },
 
         {
             "id": 4,
             "name": "Gorra De Caza Solognac Steppe 100 Adulto Camuflaje",
-            "precio": 4.99,
+            "price": 4.99,
             "image": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
         },
 
         {
             "id": 5,
             "name": "Gorra de Tenis Artengo TC 900 GrisT58",
-            "precio": 9.99,
+            "price": 9.99,
             "image": "https://contents.mediadecathlon.com/p1744953/k$574a7d5a35c1f039c7bf5fca6e0d717a/sq/gorra-de-tenis-artengo-tc-900-grist58.jpg?f=3000x3000"
         },
 
         {
             "id": 6,
-            "name": "Gorra Mixta Fitness Cardio Negro",
+            "name": "Gorra Fitness Cardio Negro",
             "price": 9.99,
             "image": "https://contents.mediadecathlon.com/p2027180/k$23ec7148107220f9b093232eace42c98/sq/gorra-mixta-fitness-cardio-negro.jpg?f=3000x3000"
         },
@@ -58,7 +58,7 @@
 
         {
             "id": 9,
-            "name": "Gorra baloncesto NBA Unisex - Los Angeles Lakers Violeta",
+            "name": "Gorra baloncesto NBA - Los Angeles Lakers Violeta",
             "price": 18.99,
             "image": "https://contents.mediadecathlon.com/p2091172/k$a6795790989561bd1eb4a0c868bcbb79/sq/gorra-baloncesto-nba-unisex-los-angeles-lakers-violeta.jpg?f=3000x3000"
         },
@@ -79,7 +79,7 @@
         
         {
             "id": 12,
-            "name": "Gorra de béisbol MLB Hombre/Mujer - New York Yankees Beis",
+            "name": "Gorra de béisbol MLB - New York Yankees Beis",
             "price": 17.99,
             "image": "https://contents.mediadecathlon.com/p2549301/k$9214d3e4eee1538f3ec07ab0f223fd93/sq/gorra-de-beisbol-mlb-hombremujer-new-york-yankees-beis.jpg?f=3000x3000"
         }
