@@ -5,9 +5,8 @@ import Navbar from "../components/Navbar";
 
 function Principal(){
     return(
-        <div>
+        <div className="principal">
             <header className="App-header">
-                <LogoImg />
                 <Navbar />
             </header>
             <Baner/>
