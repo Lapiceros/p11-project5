@@ -1,0 +1,22 @@
+.product-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.product-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.product-image{
+    width: 200px;
+    height: 200px;
+}

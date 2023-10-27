@@ -1,12 +1,21 @@
+import './Gorras.css'
 import Test from './test.json';
 
-let Imagenes = Test.products.map(data => data.image)
+let Imagenes = ({product}) => (
+        <div className='product-card'>
+                <img src={product.image} alt={product.name} className='product-image'/>
+                <h3>{product.name}</h3>
+        </div>
+)
 
 function Gorras(){
         return (
-                <img src={Imagenes} alt="imagen de producto" />
+                <div className='product-container'>
+                        {Test.products.map(product => (
+                                <Imagenes key={product.id} product={product} />
+                        ))}
+                </div>
         );
-    }
-
+}
 
 export default Gorras;
