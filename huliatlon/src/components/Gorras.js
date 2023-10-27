@@ -2,20 +2,18 @@ import './Gorras.css'
 import Test from './test.json';
 
 let Imagenes = ({product}) => (
-        <div className='product-card'>
+        <div className='card'>
                 <img src={product.image} alt={product.name} className='product-image'/>
-                <div>
                 <p className='price'>{product.price} €</p>
-                </div>
                 <h3>{product.name}</h3>
         </div>
 )
 
 function Catalogo_Img(){
         return (
-                <div className='product-container'>
+                <div className='container'>
                         {Test.products.map(product => (
-                                <Imagenes key={product.id} product={product} />
+                                <Imagenes id={product.id} product={product} />
                         ))}
                 </div>
         );

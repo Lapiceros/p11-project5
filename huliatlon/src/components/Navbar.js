@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 function Navbar (){
     return(<div>
         <div className="navbar">
-            <a href="/">Deportes</a>
+            <Link to="/pages/catalogo">Deportes</Link>
             <a href="/">Mujer</a>
-            <Link to="/pages/catalogo">Hombre</Link>
+            <a href="/">Hombre</a>
             <a href="/">Infantil</a>
             <a href="/">Equipamiento</a>
             <a href="/">Nutrición y salud</a>
@@ -16,3 +16,4 @@ function Navbar (){
 }
 
 export default Navbar;
+
